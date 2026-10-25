@@ -10,7 +10,7 @@ day, on hardware I run myself. Looking for a first developer job in Luxembourg o
   tool to sort images by hand and mark wood defects for cutting.
 - **Computech**: one month of PC sales, diagnosis and repair.
 - **UNamur, first year of computer science** (2021–2022): [alpha-omega](https://github.com/huburton/alpha-omega),
-  a werewolf strategy game in the terminal, with an AI, for a team of four.
+  a werewolf strategy game in the terminal with an AI, built in a team of four.
 - **School 19, 42 network** (2024–2026): C and Unix, from a libc rewrite to a shell and a raycaster.
 - **Electronics and making**: a 3D printer built from aluminium extrusions at 16, a connected pet feeder,
   a four-probe boiler monitor with its own board and printed case, LED projects with ESP boards.
