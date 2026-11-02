@@ -2,7 +2,7 @@
 
 *[English version](README.md)*
 
-Développeur junior à Montmédy (France), tout près des frontières luxembourgeoise et belge. J'ai appris à
+Développeur junior, près des frontières belge et luxembourgeoise. J'ai appris à
 coder au secondaire, à l'UNamur et à l'école 19 (réseau 42), et je continue d'apprendre en construisant
 des outils dont je me sers tous les jours, sur du matériel que je gère moi-même. Je cherche un premier
 poste de développeur au Luxembourg ou en Belgique.

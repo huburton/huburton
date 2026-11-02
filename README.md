@@ -2,7 +2,7 @@
 
 *[Version française](README.fr.md)*
 
-Junior developer in Montmédy (France), close to the Luxembourg and Belgian borders. I learned to code
+Junior developer, near the Belgian and Luxembourg borders. I learned to code
 at school, at UNamur and at School 19 (42 network), and I keep learning by building tools I use every
 day, on hardware I run myself. Looking for a first developer job in Luxembourg or Belgium.
 
